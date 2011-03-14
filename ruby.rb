@@ -1,4 +1,4 @@
-class HelloWorld
+class HelloToYou
 	def self.hey
 		puts 'Hello mother earth'
 	end
@@ -7,5 +7,5 @@ class HelloWorld
 	end
 end
 
-HelloWorld.hey
-HelloWorld.goodbye
+HelloToYou.hey
+HelloToYou.goodbye
