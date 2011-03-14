@@ -1,5 +1,5 @@
 class HelloWorld
-	def self.hello
+	def self.hey
 		puts 'Hello mother earth'
 	end
 	def self.goodbye
@@ -7,5 +7,5 @@ class HelloWorld
 	end
 end
 
-HelloWorld.hello
+HelloWorld.hey
 HelloWorld.goodbye
