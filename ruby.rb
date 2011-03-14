@@ -4,7 +4,7 @@ class HelloWorld
 	end
 	def self.goodbye
 		puts 'And goodbye'
-	ens
+	end
 end
 
 HelloWorld.hello
