@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-class Hello
-=======
 class HelloToYou
->>>>>>> master
 	def self.hey
 		puts 'Hello mother earth, and moon'
 	end
@@ -11,10 +7,5 @@ class HelloToYou
 	end
 end
 
-<<<<<<< HEAD
-Hello.hey
-Hello.bye
-=======
 HelloToYou.hey
 HelloToYou.goodbye
->>>>>>> master
