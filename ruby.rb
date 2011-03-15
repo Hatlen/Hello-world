@@ -1,4 +1,4 @@
-class Heya
+class HeyGorgeous
 	def self.hey
 		puts 'Hello mother earth, and moon'
 	end
@@ -7,5 +7,5 @@ class Heya
 	end
 end
 
-Heya.hey
-Heya.goodbye
+HeyGorgeous.hey
+HeyGorgeous.goodbye
